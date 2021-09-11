@@ -8,8 +8,8 @@
 
 ## 版权及隐私
 
-### 版权
-[GPL v3](https://choosealicense.com/licenses/gpl-3.0/).
+### 版权许可
+版权属于所有贡献者。许可协议为[GPL v3](https://choosealicense.com/licenses/gpl-3.0/).
 
 ### 关于隐私
 
